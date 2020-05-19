@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28318" started-at="2020-05-18T04:26:26 IST" finished-at="2020-05-18T04:26:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28318" started-at="2020-05-18T04:26:26 IST" finished-at="2020-05-18T04:26:54 IST">
+      <class name="Execution.ExecuteTestcase">
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:Execution.ExecuteTestcase@eeefeb]" name="Initialize" is-config="true" duration-ms="7032" started-at="2020-05-18T04:26:26 IST" finished-at="2020-05-18T04:26:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="verifyPracticepage()[pri:1, instance:Execution.ExecuteTestcase@eeefeb]" name="verifyPracticepage" duration-ms="5550" started-at="2020-05-18T04:26:33 IST" finished-at="2020-05-18T04:26:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPracticepage -->
+        <test-method status="PASS" signature="homepagetest()[pri:2, instance:Execution.ExecuteTestcase@eeefeb]" name="homepagetest" duration-ms="15681" started-at="2020-05-18T04:26:38 IST" finished-at="2020-05-18T04:26:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagetest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Execution.ExecuteTestcase@eeefeb]" name="close" is-config="true" duration-ms="0" started-at="2020-05-18T04:26:54 IST" finished-at="2020-05-18T04:26:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Execution.ExecuteTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
